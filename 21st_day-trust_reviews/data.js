@@ -1,23 +1,23 @@
 const people = [
   {
     img:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/c_scale,w_200/v1595959121/person-1_aufeoq.jpg",
-    name: "peter doe",
-    job: "product manager",
+      "https://en.dailypakistan.com.pk/digital_images/large/2022-10-10/which-intel-agency-is-involved-in-the-bugging-of-the-pm-house-and-office-imran-khan-seeks-probe-agai-1665407022-2057.jpg",
+    name: "Imran Ahmad Khan Niazi",
+    job: "Formar Prime Minister of Pakistan",
     text: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem quoeius recusandae officia voluptas sint deserunt dicta nihil nam omnis? `,
   },
   {
     img:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/c_scale,w_200/v1595959131/person-2_ipcjws.jpg",
-    name: "susan doe",
-    job: "developer",
+      "https://newsimage.radio.gov.pk/20220826/762663181661528009.jpg",
+    name: "Gen. Qamar Javed Bajwa",
+    job: "COAS of Pakistan Army",
     text: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem quoeius recusandae officia voluptas sint deserunt dicta nihil nam omnis?`,
   },
   {
     img:
-      "https://res.cloudinary.com/diqqf3eq2/image/upload/c_scale,w_200/v1595959131/person-3_rxtqvi.jpg",
-    name: "emma doe",
-    job: "designer",
+      "https://www.thenews.com.pk/assets/uploads/akhbar/2022-05-24/960310_417291_umar-ata-bandial_akhbar.jpg",
+    name: "Justice Umar Ata Bandial",
+    job: "Chief Justice of supreme Court Pakistan",
     text: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem quoeius recusandae officia voluptas sint deserunt dicta nihil nam omnis?`,
   },
 ];
